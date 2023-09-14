@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stroka.Tests", "Stroka.Tests\Stroka.Tests.csproj", "{8CF18A69-20FF-4EC9-AF69-7E443A9E68F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stroka", "Stroka\Stroka.csproj", "{80D8537E-D963-47EB-8416-1E4128DCCC89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CF18A69-20FF-4EC9-AF69-7E443A9E68F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF18A69-20FF-4EC9-AF69-7E443A9E68F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF18A69-20FF-4EC9-AF69-7E443A9E68F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF18A69-20FF-4EC9-AF69-7E443A9E68F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80D8537E-D963-47EB-8416-1E4128DCCC89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D8537E-D963-47EB-8416-1E4128DCCC89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D8537E-D963-47EB-8416-1E4128DCCC89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D8537E-D963-47EB-8416-1E4128DCCC89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CBD5FCF-96A6-40DA-9CCF-ABFB52B4D213}
+	EndGlobalSection
+EndGlobal
